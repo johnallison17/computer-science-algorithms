@@ -21,3 +21,5 @@ Given a string  `s`,  _find the first non-repeating character in it and return i
 
 -   `1 <= s.length <= 105`
 -   `s`  consists of only lowercase English letters.
+
+[Algorithm Link From LeetCode](https://leetcode.com/explore/interview/card/top-interview-questions-easy/127/strings/881/)
