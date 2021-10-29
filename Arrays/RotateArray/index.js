@@ -5,6 +5,7 @@ const reverse=function(arr,start,end){
         end--;
     }
 }
+
 var rotate = function(nums, k) {
     let numsLength=nums.length;
     k%=numsLength;
